@@ -1,0 +1,75 @@
+
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+      {
+        "uri": "nyt://article/60fc120e-81de-5349-816e-b8a9d8a40847",
+        "url": "https://www.nytimes.com/2025/08/05/us/jeffrey-epstein-mansion-photos.html",
+        "id": 100000010316077,
+        "asset_id": 100000010316077,
+        "source": "New York Times",
+        "published_date": 2025-08-05,
+        "updated": "2025-08-07 09:50:35",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "High Net Worth Individuals;Sex Crimes;Human Trafficking;Child Abuse and Neglect;Prostitution;Content Type: Personal Profile;Real Estate and Housing (Residential);Epstein, Jeffrey E (1953- );Maxwell, Ghislaine;Upper East Side (Manhattan, NY)",
+        "column": null,
+        "byline": "By David Enrich, Matthew Goldstein, Jessica Silver-Greenberg and Steve Eder",
+        "type": "Article",
+        "title": "A Look Inside Jeffrey Epstein’s Manhattan Lair",
+        "abstract": "In his seven-story townhouse, the sex offender hosted the elite, displayed photos with presidents and showcased a first edition of “Lolita,” according to previously unreported photos and letters.",
+        "des_facet": [
+          "High Net Worth Individuals",
+          "Sex Crimes",
+          "Human Trafficking",
+          "Child Abuse and Neglect",
+          "Prostitution",
+          "Content Type: Personal Profile",
+          "Real Estate and Housing (Residential)"
+        ],
+        "org_facet": [
+          
+        ],
+        "per_facet": [
+          "Epstein, Jeffrey E (1953- )",
+          "Maxwell, Ghislaine"
+        ],
+        "geo_facet": [
+          "Upper East Side (Manhattan, NY)"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "",
+            "approved_for_syndication": 0,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2025/08/05/multimedia/05inv-epstein-house-promo/05inv-epstein-house-promo-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/08/05/multimedia/05inv-epstein-house-promo/05inv-epstein-house-promo-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/08/05/multimedia/05inv-epstein-house-promo/05inv-epstein-house-promo-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      }
+  ]
+}

@@ -1,0 +1,1295 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/60fc120e-81de-5349-816e-b8a9d8a40847",
+      "url": "https://www.nytimes.com/2025/08/05/us/jeffrey-epstein-mansion-photos.html",
+      "id": 100000010316077,
+      "asset_id": 100000010316077,
+      "source": "New York Times",
+      "published_date": "2025-08-05",
+      "updated": "2025-08-07 09:50:35",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "High Net Worth Individuals;Sex Crimes;Human Trafficking;Child Abuse and Neglect;Prostitution;Content Type: Personal Profile;Real Estate and Housing (Residential);Epstein, Jeffrey E (1953- );Maxwell, Ghislaine;Upper East Side (Manhattan, NY)",
+      "column": null,
+      "byline": "By David Enrich, Matthew Goldstein, Jessica Silver-Greenberg and Steve Eder",
+      "type": "Article",
+      "title": "A Look Inside Jeffrey Epstein’s Manhattan Lair",
+      "abstract": "In his seven-story townhouse, the sex offender hosted the elite, displayed photos with presidents and showcased a first edition of “Lolita,” according to previously unreported photos and letters.",
+      "des_facet": [
+        "High Net Worth Individuals",
+        "Sex Crimes",
+        "Human Trafficking",
+        "Child Abuse and Neglect",
+        "Prostitution",
+        "Content Type: Personal Profile",
+        "Real Estate and Housing (Residential)"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Epstein, Jeffrey E (1953- )",
+        "Maxwell, Ghislaine"
+      ],
+      "geo_facet": [
+        "Upper East Side (Manhattan, NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/05/multimedia/05inv-epstein-house-promo/05inv-epstein-house-promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/05/multimedia/05inv-epstein-house-promo/05inv-epstein-house-promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/05/multimedia/05inv-epstein-house-promo/05inv-epstein-house-promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e5b1d072-2dee-5354-8859-edbe48605cfc",
+      "url": "https://www.nytimes.com/2025/08/07/well/mind/super-agers-social-connections.html",
+      "id": 100000010309735,
+      "asset_id": 100000010309735,
+      "source": "New York Times",
+      "published_date": "2025-08-07",
+      "updated": "2025-08-09 00:40:13",
+      "section": "Well",
+      "subsection": "Mind",
+      "nytdsection": "well",
+      "adx_keywords": "Elderly;Friendship;Brain;Longevity;Memory;Loneliness;Anxiety and Stress;Alzheimer's Disease;Age, Chronological;Research",
+      "column": null,
+      "byline": "By Dana G. Smith",
+      "type": "Article",
+      "title": "The One Quality Most ‘Super-Agers’ Share",
+      "abstract": "After 25 years of research on this notable group, here’s what stands out.",
+      "des_facet": [
+        "Elderly",
+        "Friendship",
+        "Brain",
+        "Longevity",
+        "Memory",
+        "Loneliness",
+        "Anxiety and Stress",
+        "Alzheimer's Disease",
+        "Age, Chronological",
+        "Research"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Super-ager” Ralph Rehbock, 91, is part of a men’s singing group called the Meltones. They meet every week.",
+          "copyright": "Lyndon French for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/05/multimedia/WELL-SUPERAGERS-UPDATE-wjmv/WELL-SUPERAGERS-UPDATE-wjmv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/05/multimedia/WELL-SUPERAGERS-UPDATE-wjmv/WELL-SUPERAGERS-UPDATE-wjmv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/05/multimedia/WELL-SUPERAGERS-UPDATE-wjmv/WELL-SUPERAGERS-UPDATE-wjmv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c8ab72e9-2684-52b2-9d81-336714a36e6e",
+      "url": "https://www.nytimes.com/2025/08/08/us/politics/trump-billy-long-irs-commissioner.html",
+      "id": 100000010331233,
+      "asset_id": 100000010331233,
+      "source": "New York Times",
+      "published_date": "2025-08-08",
+      "updated": "2025-08-09 00:29:01",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Appointments and Executive Changes;Federal Taxes (US);United States Politics and Government;Long, William H II;Trump, Donald J;Internal Revenue Service",
+      "column": null,
+      "byline": "By Andrew Duehren, Alan Rappeport and Maggie Haberman",
+      "type": "Article",
+      "title": "Trump Is Removing I.R.S. Chief 2 Months After He Was Confirmed",
+      "abstract": "Billy Long, a former Republican congressman, will no longer serve as the tax agency’s head. Treasury Secretary Scott Bessent will oversee the agency as acting commissioner.",
+      "des_facet": [
+        "Appointments and Executive Changes",
+        "Federal Taxes (US)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Internal Revenue Service"
+      ],
+      "per_facet": [
+        "Long, William H II",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Billy Long during his nomination hearing in May.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/08/multimedia/dc-irs-lmwj/dc-irs-lmwj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/08/multimedia/dc-irs-lmwj/dc-irs-lmwj-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/08/multimedia/dc-irs-lmwj/dc-irs-lmwj-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5b53da1b-91f6-50d9-a262-8db0606259aa",
+      "url": "https://www.nytimes.com/2025/08/08/us/trump-military-drug-cartels.html",
+      "id": 100000010325461,
+      "asset_id": 100000010325461,
+      "source": "New York Times",
+      "published_date": "2025-08-08",
+      "updated": "2025-08-09 12:35:45",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Drug Cartels;United States Defense and Military Forces;United States International Relations;Presidential Power (US);Trump, Donald J;Mara Salvatrucha (MS-13);Tren de Aragua (Gang);Mexico;Venezuela",
+      "column": null,
+      "byline": "By Helene Cooper, Maggie Haberman, Charlie Savage and Eric Schmitt",
+      "type": "Article",
+      "title": "Trump Directs Military to Target Foreign Drug Cartels",
+      "abstract": "The president has ordered the Pentagon to use the armed forces to carry out what in the past was considered law enforcement.",
+      "des_facet": [
+        "Drug Cartels",
+        "United States Defense and Military Forces",
+        "United States International Relations",
+        "Presidential Power (US)"
+      ],
+      "org_facet": [
+        "Mara Salvatrucha (MS-13)",
+        "Tren de Aragua (Gang)"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Mexico",
+        "Venezuela"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump ordered the State Department to label drug cartels as terrorist organizations after taking office in January.",
+          "copyright": "Haiyun Jiang/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/06/multimedia/00dc-cartels-01-whpg/00dc-cartels-01-whpg-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/06/multimedia/00dc-cartels-01-whpg/00dc-cartels-01-whpg-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/06/multimedia/00dc-cartels-01-whpg/00dc-cartels-01-whpg-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b3f0e8a5-b542-5acb-b544-9483fcb14708",
+      "url": "https://www.nytimes.com/2025/08/10/us/mark-zuckerberg-palo-alto.html",
+      "id": 100000010311971,
+      "asset_id": 100000010311971,
+      "source": "New York Times",
+      "published_date": "2025-08-10",
+      "updated": "2025-08-11 14:12:29",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Zoning;Real Estate and Housing (Residential);High Net Worth Individuals;Zuckerberg, Mark E;Chan, Priscilla;Facebook Inc;Meta Platforms Inc;Palo Alto (Calif)",
+      "column": null,
+      "byline": "By Heather Knight",
+      "type": "Article",
+      "title": "What Happened When Mark Zuckerberg Moved In Next Door",
+      "abstract": "The billionaire has bought at least 11 properties in Palo Alto, Calif., creating a compound for his family, a private school for his children — and headaches for his neighbors.",
+      "des_facet": [
+        "Zoning",
+        "Real Estate and Housing (Residential)",
+        "High Net Worth Individuals"
+      ],
+      "org_facet": [
+        "Facebook Inc",
+        "Meta Platforms Inc"
+      ],
+      "per_facet": [
+        "Zuckerberg, Mark E",
+        "Chan, Priscilla"
+      ],
+      "geo_facet": [
+        "Palo Alto (Calif)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The gated entrance to a house owned by Mr. Zuckerberg.",
+          "copyright": "Loren Elliott for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/08/multimedia/00nat-zuckerberg-bmvl/00nat-zuckerberg-bmvl-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/08/multimedia/00nat-zuckerberg-bmvl/00nat-zuckerberg-bmvl-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/08/multimedia/00nat-zuckerberg-bmvl/00nat-zuckerberg-bmvl-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/da99cec8-004a-54e5-bd06-fe832197928a",
+      "url": "https://www.nytimes.com/2025/08/10/technology/coding-ai-jobs-students.html",
+      "id": 100000010290785,
+      "asset_id": 100000010290785,
+      "source": "New York Times",
+      "published_date": "2025-08-10",
+      "updated": "2025-08-10 08:59:36",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "Colleges and Universities;Artificial Intelligence;Internships;Labor and Jobs;Layoffs and Job Reductions;Computers and the Internet;ChatGPT;Hiring and Promotion;United States Economy;Purdue University;Microsoft Corp;Oregon State University;Georgetown University;Clark University",
+      "column": null,
+      "byline": "By Natasha Singer",
+      "type": "Article",
+      "title": "Goodbye, $165,000 Tech Jobs. Student Coders Seek Work at Chipotle.",
+      "abstract": "As companies like Amazon and Microsoft lay off workers and embrace A.I. coding tools, computer science graduates say they’re struggling to land tech jobs.",
+      "des_facet": [
+        "Colleges and Universities",
+        "Artificial Intelligence",
+        "Internships",
+        "Labor and Jobs",
+        "Layoffs and Job Reductions",
+        "Computers and the Internet",
+        "ChatGPT",
+        "Hiring and Promotion",
+        "United States Economy"
+      ],
+      "org_facet": [
+        "Purdue University",
+        "Microsoft Corp",
+        "Oregon State University",
+        "Georgetown University",
+        "Clark University"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Manasi Mishra recently graduated from Purdue University with a degree in computer science.",
+          "copyright": "Madeleine Hordinski for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/07/28/multimedia/AI-jobs-Mishra-01-cjwl/AI-jobs-Mishra-01-cjwl-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/07/28/multimedia/AI-jobs-Mishra-01-cjwl/AI-jobs-Mishra-01-cjwl-mediumThreeByTwo210-v5.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/07/28/multimedia/AI-jobs-Mishra-01-cjwl/AI-jobs-Mishra-01-cjwl-mediumThreeByTwo440-v5.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/866dac7a-6e96-5e2d-ae4a-e95d7b5d5391",
+      "url": "https://www.nytimes.com/2025/08/07/world/middleeast/israel-gaza-military-offensive.html",
+      "id": 100000010327671,
+      "asset_id": 100000010327671,
+      "source": "New York Times",
+      "published_date": "2025-08-07",
+      "updated": "2025-08-08 08:41:19",
+      "section": "World",
+      "subsection": "Middle East",
+      "nytdsection": "world",
+      "adx_keywords": "Israel-Gaza War (2023- );Defense and Military Forces;Palestinians;Terrorism;Kidnapping and Hostages;Netanyahu, Benjamin;Hamas;Israel;Gaza Strip",
+      "column": null,
+      "byline": "By Adam Rasgon, Natan Odenheimer, Ronen Bergman and Isabel Kershner",
+      "type": "Article",
+      "title": "Israeli Security Cabinet Approves Plan to Take Control of Gaza City",
+      "abstract": "The announcement appeared to stop short of saying explicitly that Israel would take full control of the Gaza Strip, which Prime Minister Benjamin Netanyahu said was his intention earlier.",
+      "des_facet": [
+        "Israel-Gaza War (2023- )",
+        "Defense and Military Forces",
+        "Palestinians",
+        "Terrorism",
+        "Kidnapping and Hostages"
+      ],
+      "org_facet": [
+        "Hamas"
+      ],
+      "per_facet": [
+        "Netanyahu, Benjamin"
+      ],
+      "geo_facet": [
+        "Israel",
+        "Gaza Strip"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Israeli military says it controls about 75 percent of Gaza. The coastal strip stretching from Gaza City in the north of the enclave to Khan Younis in the south is the main area that is outside Israeli control.",
+          "copyright": "Ohad Zwigenberg/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/07/multimedia/07israel-gaza-offensive-01-kmpf/07israel-gaza-offensive-01-kmpf-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/07/multimedia/07israel-gaza-offensive-01-kmpf/07israel-gaza-offensive-01-kmpf-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/07/multimedia/07israel-gaza-offensive-01-kmpf/07israel-gaza-offensive-01-kmpf-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/813aeec4-8520-57da-8457-7c1994b6a0f2",
+      "url": "https://www.nytimes.com/2025/08/07/world/europe/usaid-contraceptives-trump.html",
+      "id": 100000010324132,
+      "asset_id": 100000010324132,
+      "source": "New York Times",
+      "published_date": "2025-08-07",
+      "updated": "2025-08-08 10:03:36",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Birth Control and Family Planning;United States International Relations;Foreign Aid;Trump, Donald J;United States Agency for International Development;United Nations;Africa;Belgium;Europe",
+      "column": null,
+      "byline": "By Jeanna Smialek and Stephanie Nolen",
+      "type": "Article",
+      "title": "As Trump Administration Plans to Burn Contraceptives, Europeans Are Alarmed",
+      "abstract": "The U.S. government intends to incinerate $9.7 million in already-purchased birth control in Belgium after U.S.A.I.D shut down. Destruction may have already started.",
+      "des_facet": [
+        "Birth Control and Family Planning",
+        "United States International Relations",
+        "Foreign Aid"
+      ],
+      "org_facet": [
+        "United States Agency for International Development",
+        "United Nations"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Africa",
+        "Belgium",
+        "Europe"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The warehouse in Geel, Belgium, where millions of contraceptives bought by U.S.A.I.D. were stored when the U.S. government defunded the agency.",
+          "copyright": "Hilary Swift for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/07/multimedia/07int-contraceptives-05-gwtc/07int-contraceptives-05-gwtc-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/07/multimedia/07int-contraceptives-05-gwtc/07int-contraceptives-05-gwtc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/07/multimedia/07int-contraceptives-05-gwtc/07int-contraceptives-05-gwtc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9146b902-cba0-510d-b59a-155214a735e3",
+      "url": "https://www.nytimes.com/2025/08/07/us/politics/secret-service-vance-boating.html",
+      "id": 100000010329142,
+      "asset_id": 100000010329142,
+      "source": "New York Times",
+      "published_date": "2025-08-07",
+      "updated": "2025-08-08 16:23:47",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Boats and Boating;Rivers;United States Politics and Government;Vance, J D;Secret Service;Army Corps of Engineers;Ohio",
+      "column": null,
+      "byline": "By Lisa Friedman and Eileen Sullivan",
+      "type": "Article",
+      "title": "Military Raised Water Level of River in Ohio for JD Vance’s Family Boating Trip",
+      "abstract": "The Secret Service said the boats the agency uses for security are usually motorized and need deeper waters to operate.",
+      "des_facet": [
+        "Boats and Boating",
+        "Rivers",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Secret Service",
+        "Army Corps of Engineers"
+      ],
+      "per_facet": [
+        "Vance, J D"
+      ],
+      "geo_facet": [
+        "Ohio"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vice President JD Vance took his family on a boating trip in Ohio for his 41st birthday. ",
+          "copyright": "Maddie McGarvey for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/07/multimedia/07dc-vance-security-bgtq/07dc-vance-security-bgtq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/07/multimedia/07dc-vance-security-bgtq/07dc-vance-security-bgtq-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/07/multimedia/07dc-vance-security-bgtq/07dc-vance-security-bgtq-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/567e7d38-d4ea-5ab6-82ad-546f05e5944d",
+      "url": "https://www.nytimes.com/2025/08/04/opinion/columnists/friedman-trump-labor-firing.html",
+      "id": 100000010321903,
+      "asset_id": 100000010321903,
+      "source": "New York Times",
+      "published_date": "2025-08-04",
+      "updated": "2025-08-05 10:11:25",
+      "section": "Opinion",
+      "subsection": "Columnists",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Politics and Government;United States Economy;Appointments and Executive Changes;Politics and Government;Labor and Jobs;Bessent, Scott;Chavez-DeRemer, Lori;Driscoll, Daniel P;Easterly, Jen;Gabbard, Tulsi (1981- );Greer, Jamieson L;Hassett, Kevin A;Loomer, Laura;McEntarfer, Erika L;Trump, Donald J;Bureau of Labor Statistics;West Point (NY)",
+      "column": null,
+      "byline": "By Thomas L. Friedman",
+      "type": "Article",
+      "title": "The America We Knew Is Rapidly Slipping Away",
+      "abstract": "When Trump fired the top labor statistics official, the aides responsible for running our economy went along for the ride.",
+      "des_facet": [
+        "United States Politics and Government",
+        "United States Economy",
+        "Appointments and Executive Changes",
+        "Politics and Government",
+        "Labor and Jobs"
+      ],
+      "org_facet": [
+        "Bureau of Labor Statistics"
+      ],
+      "per_facet": [
+        "Bessent, Scott",
+        "Chavez-DeRemer, Lori",
+        "Driscoll, Daniel P",
+        "Easterly, Jen",
+        "Gabbard, Tulsi (1981- )",
+        "Greer, Jamieson L",
+        "Hassett, Kevin A",
+        "Loomer, Laura",
+        "McEntarfer, Erika L",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "West Point (NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Will Matsuda for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/05/multimedia/04friedman-vfhk/04friedman-vfhk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/05/multimedia/04friedman-vfhk/04friedman-vfhk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/05/multimedia/04friedman-vfhk/04friedman-vfhk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7e469b98-42e2-585c-9047-8fb669028b6d",
+      "url": "https://www.nytimes.com/2025/08/06/us/fort-stewart-airfield-active-shooter.html",
+      "id": 100000010326780,
+      "asset_id": 100000010326780,
+      "source": "New York Times",
+      "published_date": "2025-08-06",
+      "updated": "2025-08-07 12:19:46",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Mass Shootings;Military Bases and Installations;United States Defense and Military Forces;United States Army;Fort Stewart (Ga)",
+      "column": null,
+      "byline": "By Eduardo Medina, Christine Hauser and Alessandro Marazzi Sassoon",
+      "type": "Article",
+      "title": "A Sergeant Is Accused of Shooting 5 Soldiers in His Unit at Fort Stewart",
+      "abstract": "The suspect’s father said he was seeking a transfer from the Army base in Georgia, where he had complained of racism.",
+      "des_facet": [
+        "Mass Shootings",
+        "Military Bases and Installations",
+        "United States Defense and Military Forces"
+      ],
+      "org_facet": [
+        "United States Army"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "Fort Stewart (Ga)"
+      ],
+      "media": [
+        
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/63128d14-7ac7-5c42-a07d-ce5135cb0d9a",
+      "url": "https://www.nytimes.com/2025/08/08/opinion/national-enquirer-trump.html",
+      "id": 100000010322523,
+      "asset_id": 100000010322523,
+      "source": "New York Times",
+      "published_date": "2025-08-08",
+      "updated": "2025-08-10 22:29:12",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "News and News Media;Newspapers;Presidential Election of 2016;Ethics and Official Misconduct;Trump, Donald J;Pecker, David J;Sajudin, Dino;McDougal, Karen (1971- );American Media Inc;National Enquirer",
+      "column": null,
+      "byline": "By Cameron Stracher",
+      "type": "Article",
+      "title": "I Helped Bury Stories About Trump. I Regret It.",
+      "abstract": "What if those two unpublished National Enquirer stories had run?",
+      "des_facet": [
+        "News and News Media",
+        "Newspapers",
+        "Presidential Election of 2016",
+        "Ethics and Official Misconduct"
+      ],
+      "org_facet": [
+        "American Media Inc",
+        "National Enquirer"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Pecker, David J",
+        "Sajudin, Dino",
+        "McDougal, Karen (1971- )"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lucas Burtin",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/11/opinion/07stracher/07stracher-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/11/opinion/07stracher/07stracher-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/11/opinion/07stracher/07stracher-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c9d5139e-9cd0-566a-8973-5e7597c39402",
+      "url": "https://www.nytimes.com/2025/08/06/business/uber-sexual-assault.html",
+      "id": 100000010311990,
+      "asset_id": 100000010311990,
+      "source": "New York Times",
+      "published_date": "2025-08-06",
+      "updated": "2025-08-11 11:42:16",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Car Services and Livery Cabs;Sexual Harassment;Freelancing, Self-Employment and Independent Contracting;Sex Crimes;Arbitration, Conciliation and Mediation;Workplace Environment;audio-neutral-informative;audio-negative-sad;audio-negative-tragedy;Kalanick, Travis;Khosrowshahi, Dara;Uber Technologies Inc;Lyft Inc;United States",
+      "column": null,
+      "byline": "By Emily Steel",
+      "type": "Article",
+      "title": "Uber’s Festering Sexual Assault Problem",
+      "abstract": "The company has tested tools that make rides safer, court records show. Measures to stem the violence have been set aside in favor of protecting the company’s business.",
+      "des_facet": [
+        "Car Services and Livery Cabs",
+        "Sexual Harassment",
+        "Freelancing, Self-Employment and Independent Contracting",
+        "Sex Crimes",
+        "Arbitration, Conciliation and Mediation",
+        "Workplace Environment",
+        "audio-neutral-informative",
+        "audio-negative-sad",
+        "audio-negative-tragedy"
+      ],
+      "org_facet": [
+        "Uber Technologies Inc",
+        "Lyft Inc"
+      ],
+      "per_facet": [
+        "Kalanick, Travis",
+        "Khosrowshahi, Dara"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Max-o-matic; Photographs by Mark Abramson for The New York Times, Jim Wilson/The New York Times, Sam Bush for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/01/business/00uber/00uber-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/01/business/00uber/00uber-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/01/business/00uber/00uber-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6128dbfc-2f71-5495-b61d-fe957be7adcf",
+      "url": "https://www.nytimes.com/2025/08/08/opinion/seed-oils-nutrition-ingredients-science.html",
+      "id": 100000010314843,
+      "asset_id": 100000010314843,
+      "source": "New York Times",
+      "published_date": "2025-08-08",
+      "updated": "2025-08-08 21:06:23",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Diet and Nutrition;Oils and Fats;Processed and Ultraprocessed Foods;Research",
+      "column": null,
+      "byline": "By Emily Oster",
+      "type": "Article",
+      "title": "The Trouble With French Fries Is Not the Oil",
+      "abstract": "Nutrition science demonizing individual foods or ingredients is often based on flawed science and misses the bigger picture.",
+      "des_facet": [
+        "Diet and Nutrition",
+        "Oils and Fats",
+        "Processed and Ultraprocessed Foods",
+        "Research"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rob Frogoso",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/08/opinion/08oster/08oster-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/08/opinion/08oster/08oster-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/08/opinion/08oster/08oster-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9da148ab-b67c-5239-a7e3-52248aad07aa",
+      "url": "https://www.nytimes.com/2025/08/07/well/eleven-women-nine-dogs-not-much-drama-and-no-guys.html",
+      "id": 100000010276409,
+      "asset_id": 100000010276409,
+      "source": "New York Times",
+      "published_date": "2025-08-07",
+      "updated": "2025-08-11 11:40:49",
+      "section": "Well",
+      "subsection": "",
+      "nytdsection": "well",
+      "adx_keywords": "Women and Girls;Cohousing Communities;Tiny Homes and Micro-Housing;Sustainable Living;Elderly;Retirement;Content Type: Personal Profile;audio-neutral-informative;audio-positive-happy;Texas",
+      "column": null,
+      "byline": "By Lisa Miller and Shelby Tauber",
+      "type": "Article",
+      "title": "11 Women, 9 Dogs, Not Much Drama (and No Guys)",
+      "abstract": "These retired women in Texas have been through infertility, illness, layoffs, addiction and disappointing marriages. Now they are trying to create a utopia just for themselves.",
+      "des_facet": [
+        "Women and Girls",
+        "Cohousing Communities",
+        "Tiny Homes and Micro-Housing",
+        "Sustainable Living",
+        "Elderly",
+        "Retirement",
+        "Content Type: Personal Profile",
+        "audio-neutral-informative",
+        "audio-positive-happy"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "Texas"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robyn Yerian, the founder of The Bird’s Nest near Dallas.",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/04/multimedia/00WELL-BIRDS-NEST-03-zcqj/00WELL-BIRDS-NEST-03-zcqj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/04/multimedia/00WELL-BIRDS-NEST-03-zcqj/00WELL-BIRDS-NEST-03-zcqj-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/04/multimedia/00WELL-BIRDS-NEST-03-zcqj/00WELL-BIRDS-NEST-03-zcqj-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/abf52d1f-8e72-576c-b4fc-fb00803dc241",
+      "url": "https://www.nytimes.com/2025/08/05/us/politics/mike-flood-town-hall.html",
+      "id": 100000010316513,
+      "asset_id": 100000010316513,
+      "source": "New York Times",
+      "published_date": "2025-08-05",
+      "updated": "2025-08-06 14:30:44",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Polls and Public Opinion;United States Politics and Government;One Big Beautiful Bill Act (2025);Midterm Elections (2026);Flood, Mike (1975- );Trump, Donald J;Republican Party;House of Representatives;Nebraska",
+      "column": null,
+      "byline": "By Annie Karni",
+      "type": "Article",
+      "title": "A G.O.P. Congressman Faced Hometown Voters. It Wasn’t Pretty.",
+      "abstract": "Most Republican lawmakers are avoiding town hall meetings, reluctant to confront energized Democrats and answer tough questions. When Representative Mike Flood of Nebraska gave it a try, the booing started in seconds.",
+      "des_facet": [
+        "Polls and Public Opinion",
+        "United States Politics and Government",
+        "One Big Beautiful Bill Act (2025)",
+        "Midterm Elections (2026)"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "House of Representatives"
+      ],
+      "per_facet": [
+        "Flood, Mike (1975- )",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Nebraska"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative Mike Flood, Republican of Nebraska, was booed almost as soon as he took the stage at the University of Nebraska-Lincoln on Monday night.",
+          "copyright": "Terry Ratzlaff for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/05/multimedia/05dc-townhalls1-qbkv/05dc-townhalls1-qbkv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/05/multimedia/05dc-townhalls1-qbkv/05dc-townhalls1-qbkv-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/05/multimedia/05dc-townhalls1-qbkv/05dc-townhalls1-qbkv-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a122af6a-c5db-5fb1-887b-504a8f06740b",
+      "url": "https://www.nytimes.com/2025/08/08/style/modern-love-just-here-for-the-sex-please.html",
+      "id": 100000010322335,
+      "asset_id": 100000010322335,
+      "source": "New York Times",
+      "published_date": "2025-08-08",
+      "updated": "2025-08-11 11:31:20",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Sex;Dating and Relationships;Love (Emotion);internal-audio-rules;Costa Rica",
+      "column": null,
+      "byline": "By Ros Barber",
+      "type": "Article",
+      "title": "We’re Just Here for the Sex, Please",
+      "abstract": "When learning tantric sex in paradise, it can be hard to separate the physical from the emotional.",
+      "des_facet": [
+        "Sex",
+        "Dating and Relationships",
+        "Love (Emotion)",
+        "internal-audio-rules"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "Costa Rica"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brian Rea",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/10/fashion/10ST-MODERN-BARBER/10ST-MODERN-BARBER-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/10/fashion/10ST-MODERN-BARBER/10ST-MODERN-BARBER-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/10/fashion/10ST-MODERN-BARBER/10ST-MODERN-BARBER-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3a6d0cbb-4f6f-5b1a-baa2-aff584e4dab2",
+      "url": "https://www.nytimes.com/2025/08/07/opinion/bruce-springsteen-music-poetry.html",
+      "id": 100000010327983,
+      "asset_id": 100000010327983,
+      "source": "New York Times",
+      "published_date": "2025-08-07",
+      "updated": "2025-08-08 10:16:52",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Pop and Rock Music;Poetry and Poets;Springsteen, Bruce",
+      "column": null,
+      "byline": "By John McWhorter",
+      "type": "Article",
+      "title": "Springsteen Isn’t Who I Thought He Was",
+      "abstract": "I stopped listening to Bruce Springsteen’s music. I heard something more.",
+      "des_facet": [
+        "Pop and Rock Music",
+        "Poetry and Poets"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Springsteen, Bruce"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Pablo Delcan",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/07/opinion/07mcwhorter-newsletter-image/07mcwhorter-newsletter-image-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/07/opinion/07mcwhorter-newsletter-image/07mcwhorter-newsletter-image-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/07/opinion/07mcwhorter-newsletter-image/07mcwhorter-newsletter-image-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d858fdcb-4d5d-51f2-95f4-3ebb3d959d0b",
+      "url": "https://www.nytimes.com/2025/08/11/opinion/america-short-term-thinking.html",
+      "id": 100000010309550,
+      "asset_id": 100000010309550,
+      "source": "New York Times",
+      "published_date": "2025-08-11",
+      "updated": "2025-08-11 16:27:20",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Politics and Government;United States Economy;Global Warming;Artificial Intelligence;Trump, Donald J;Republican Party;Democratic Party",
+      "column": null,
+      "byline": "By Ben Rhodes",
+      "type": "Article",
+      "title": "We’re Trapped in Trump’s Reality. This Is How We Escape It.",
+      "abstract": "Trump may be able to escape the consequences of his actions; the rest of us cannot.",
+      "des_facet": [
+        "United States Politics and Government",
+        "United States Economy",
+        "Global Warming",
+        "Artificial Intelligence"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lauren Peters-Collaer",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/11/opinion/11rhodes-image/11rhods-image-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/11/opinion/11rhodes-image/11rhods-image-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/11/opinion/11rhodes-image/11rhods-image-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3f1b5490-e594-56c9-9058-1358a2fe47d0",
+      "url": "https://www.nytimes.com/2025/08/06/arts/television/kelley-mack-dead-astrocytoma-glioma.html",
+      "id": 100000010326125,
+      "asset_id": 100000010326125,
+      "source": "New York Times",
+      "published_date": "2025-08-06",
+      "updated": "2025-08-07 10:57:31",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Deaths (Obituaries);Television;Actors and Actresses;Tumors;Nerves and Nervous System;Cancer;Mack, Kelley (1992-2025)",
+      "column": null,
+      "byline": "By Claire Moses",
+      "type": "Article",
+      "title": "Kelley Mack, ‘Walking Dead’ Actress, Dies at 33",
+      "abstract": "Ms. Mack was diagnosed with a malignant tumor in her nervous system late last year.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Television",
+        "Actors and Actresses",
+        "Tumors",
+        "Nerves and Nervous System",
+        "Cancer"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Mack, Kelley (1992-2025)"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kelley Mack had announced earlier this year that she was being treated for a cancerous tumor.",
+          "copyright": "Amanda Edwards/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/06/multimedia/06xp-mack-vkjp/06xp-mack-vkjp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/06/multimedia/06xp-mack-vkjp/06xp-mack-vkjp-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/06/multimedia/06xp-mack-vkjp/06xp-mack-vkjp-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
